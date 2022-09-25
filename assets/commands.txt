@@ -1,0 +1,11 @@
+Enter one of the following:
+
+  nav - To Set Course
+  srs - Short Range Sensors
+  lrs - Long Range Sensors
+  pha - Phasers
+  tor - Photon Torpedoes
+  shi - Shield Control
+  dam - Damage Control
+  com - Library Computer
+  xxx - Resign Command
